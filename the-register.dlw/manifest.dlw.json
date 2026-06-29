@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-THE_REGISTER",
+  "name": "THE REGISTER · REG",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦THE REGISTER · REG:the-register:d1707b⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "d1707b39e4cc541a216416a90bcbdc50175448484eea845b97cccf4e31d9fc98",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
